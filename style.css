@@ -2,7 +2,7 @@
 #pet{
     border-radius: 5%;
     height: 500px;
-
+    bro
 }
   
 /* add code here to change the color and font family of your name/title */
@@ -15,7 +15,7 @@ h1{
 /* Bonus: change the color of your list elements */
 
 li{
-    color: blue;
+    color:firebrick;
 }
   
 .questions{
