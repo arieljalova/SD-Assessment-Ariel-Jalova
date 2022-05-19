@@ -1,0 +1,24 @@
+/* add code here to make your image 300px square */
+#pet{
+    border-radius: 5%;
+    height: 500px;
+
+}
+  
+/* add code here to change the color and font family of your name/title */
+  
+h1{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+/* Bonus: change the color of your list elements */
+
+li{
+    color: blue;
+}
+  
+.questions{
+    font-weight: bold;
+    color: darkblue;
+}
